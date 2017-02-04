@@ -1,0 +1,19 @@
+{
+  "name": "nuisance-scraper",
+  "version": "0.0.1",
+  "description": "Scrapping the web for nuisance calls.",
+  "main": "server.js",
+  "author": "Christopher Dambamuromo",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chrisdamba/nuisance-scraper"
+  },
+  "dependencies": {
+    "async": "^2.1.4",
+    "cheerio": "latest",
+    "express": "latest",
+    "mongodb": "^2.2.22",
+    "request": "latest",
+    "request-promise": "^4.1.1"
+  }
+}
